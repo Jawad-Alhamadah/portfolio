@@ -1,7 +1,7 @@
 import { HeroSection } from './components/HeroSection';
-import { SkillsSection } from './components/SkillsSection';
+// import { SkillsSection } from './components/SkillsSection';
 import { ProjectsSection } from './components/ProjectsSection';
-import { WebCapabilitiesSection } from './components/WebCapabilitiesSection';
+// import { WebCapabilitiesSection } from './components/WebCapabilitiesSection';
 import { ContactSection } from './components/ContactSection';
 
 export default function WebDeveloperPortfolio() {
