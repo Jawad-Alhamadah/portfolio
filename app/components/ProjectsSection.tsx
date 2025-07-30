@@ -27,7 +27,7 @@ export const ProjectsSection = () => {
                 "React-powered state handling for smooth transitions and UI interactions",
                 "C++ code export with configurable SPI/I2C pin settings for Arduino deployment",
               ],
-              image: "/ArduinoAnim.PNG",
+              image: "/arduinoanim.png",
               githubLink:
                 "https://github.com/Jawad-Alhamadah/Arduino-Display-Animator",
               link: "https://arduino-animator.netlify.app/Oled",
@@ -47,7 +47,7 @@ export const ProjectsSection = () => {
                 "Leaderboard for users to publish their artwork and compete for accuracy",
                 "Includes user signup and login to share their work",
               ],
-              image: "/NationalDay.png",
+              image: "/nationalday.png",
               githubLink:
                 "https://github.com/Jawad-Alhamadah/national_Day_project",
               link: "https://jawad-alhamadah.github.io/national_Day_project/paint.html",
@@ -105,7 +105,7 @@ export const ProjectsSection = () => {
                 " Bypasses GitHub’s 100MB file limit without relying on Git LFS",
                 "Simple CLI usage with clean logging and documentation",
               ],
-              image: "/pythonSpliter.png",
+              image: "/pythonspliter.png",
               githubLink: "https://github.com/Jawad-Alhamadah/CLI-Splitter",
               link: "",
             },

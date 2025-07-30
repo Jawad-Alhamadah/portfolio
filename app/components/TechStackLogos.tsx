@@ -7,12 +7,12 @@ const techLogos = [
   { name: 'Node.js', src: '/nodejs.svg' },
   { name: 'React', src: '/react.svg' },
   { name: 'Typescript', src: '/typescript.svg' },
-  { name: 'Tailwind', src: '/Tailwind.svg' },
+  { name: 'Tailwind', src: '/tailwind.svg' },
   { name: 'Spring Boot', src: '/spring-icon.svg' },
 
 
-  { name: 'HTML5', src: '/html5.svg' },
-  { name: 'CSS3', src: '/css3.svg' },
+  { name: 'HTML5', src: '/html.svg' },
+  { name: 'CSS3', src: '/css.svg' },
   { name: 'Git', src: '/git.svg' },
   
   { name: 'JavaScript', src: '/javascript.svg' },
