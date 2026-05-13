@@ -28,7 +28,7 @@ export const HeroSection = () => {
               Full Stack Developer
             </h2>
             <p className="text-lg md:text-xl text-gray-400 max-w-2xl mx-auto">
-             I build full stack web applications using React, Node.js, Express, and MongoDB. I’m passionate about writing clean code, learning new tools, and currently expanding my skills with Spring Boot.
+I build full stack web applications using React, Node.js, Express, and MongoDB. I enjoy building scalable applications, integrating APIs, and working on embedded systems with Arduino.
             </p>
             {/* <p className="text-base md:text-lg text-gray-500 max-w-2xl mx-auto">
               Previously Senior Full Stack Developer at{" "}
